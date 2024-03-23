@@ -93,5 +93,7 @@ class Game:
 		if p1.wins < p2.wins:
 			return p2.name 
 		return 'Ничья'
+		#Верно
+#Создание экземляра
 game = Game()
 game.play_game()
