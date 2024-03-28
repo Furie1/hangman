@@ -114,3 +114,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 password = "drtkghpiejhioe"
 name = "dh,dr]ohjme"
+password 
+
+password = "password"
+
+password
